@@ -47,5 +47,5 @@ mkdir beta2
 6. What command(s) do you use to delete the folder `alpha`?
 ```
 cd ..
-rd alpha
+rmdir alpha /s
 ```
